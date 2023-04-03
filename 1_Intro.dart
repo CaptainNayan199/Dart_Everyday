@@ -14,3 +14,6 @@
 // Dart supports interfaces, mixins, abstract classes, reified generics, optional typing, and a sound type system.
 
 // DArt is being continuously improved by google, is always in constant development, plus additional new features and minor improvements. 
+
+// So what is FLuuter than ?
+// FLutter is just a library of Dart language. As like React is a library of JS, in same way flutter is also the library of Dart.
