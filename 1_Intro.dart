@@ -6,3 +6,4 @@
 //  for learning flutter one must be familiar with Dart
 // The fundamentals of dart are quite similar to other programming languages like JS, Java, or other C like language.
 // So, in a nutshell, Dart is an object-oriented, class defined, single inheritance language using C- styles syntax that can be transcompile into JS too. 
+// Dart supports interfaces, mixins, abstract classes, reified generics, optional typing, and a sound type system.
