@@ -1,5 +1,5 @@
 // Pre - requsites : Better if you are familiar with OOP in Python, Java, or JS too.
-
+// If not then be ready to see dart eating your brain cells
 
 // Dart is a programming languages developed by google
 // It is an application programming language that is easy to learn ( hehe not so tbh)
