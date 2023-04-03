@@ -17,3 +17,7 @@
 
 // So what is FLuuter than ?
 // FLutter is just a library of Dart language. As like React is a library of JS, in same way flutter is also the library of Dart.
+
+// SO yeah this much for today, tomorrow we will see about how to install Dart on various OS (platforms like Windows, Linux, etc).
+
+// So yeah! Have a nice day! Happy coding.
