@@ -56,4 +56,5 @@
 
 // SO yeah this much today, today we talked about how to install dart on various platforms
 // Tomorrow we will continue more about dartpad, and printing our first line of code in dart
+// Thank you! Happy coding !! Any error while installing Dart SDK , you can mail me at "nayanpathak233199@gmail.com"
 
