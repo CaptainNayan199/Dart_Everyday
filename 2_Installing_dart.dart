@@ -20,4 +20,4 @@
 
 
 // Installing dart on MacOS : 
-// Mac user have a program on their system , that is called as Homebrew, if not kindly install it,
+// Mac user have a program on their system , that is called as Homebrew, if not kindly install it, Home brew is a cmd based program that lets us download and manager software packages from terminal
