@@ -23,3 +23,4 @@
 // Mac user have a program on their system , that is called as Homebrew, if not kindly install it, Home brew is a cmd based program that lets us download and manager software packages from terminal
 
 // Check if home brew is there on system or not : 
+// Cmd - brew -v
