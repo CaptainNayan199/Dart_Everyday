@@ -32,3 +32,8 @@
 // Now dart sdk is installed in your system
 
 // confirm by doing dart -v command
+
+
+// Installing Dart on linux : 
+
+// It is quite easy to install dart in linux
