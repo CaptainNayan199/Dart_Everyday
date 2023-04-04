@@ -49,5 +49,5 @@
 // We have not installed dart sdk yet, Now type this commands : 
 
 // 1 : Sudo apt-get update
-// 2 : 
+// 2 : sudo 
 
