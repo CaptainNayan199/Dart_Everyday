@@ -51,5 +51,6 @@
 // 1 : Sudo apt-get update
 // 2 : sudo apt-get install dart
 
-// So now the dart sdk will be installed in your system, no need to set up environment variables here.
+// So now the dart sdk will be installed in your system, no need to set up environment variables here. Even , dart will be updated automatically 
+
 
