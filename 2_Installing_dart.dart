@@ -48,4 +48,6 @@
 
 // We have not installed dart sdk yet, Now type this commands : 
 
+// 1 : Sudo apt-get update
+
 
