@@ -9,3 +9,5 @@
 // For upgrading the dart sdk, you can use the command : choco upgrade dart-sdk
 
 // If you are fuzzy and dont wanna use command , just go to dart.dev and download the current and latest dart SDK for the windows
+
+// Setting up the environment variables : 
