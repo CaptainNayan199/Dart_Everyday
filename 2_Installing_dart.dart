@@ -11,3 +11,4 @@
 // If you are fuzzy and dont wanna use command , just go to dart.dev and download the current and latest dart SDK for the windows
 
 // Setting up the environment variables : 
+// In the windows search box type environment variables and go there
