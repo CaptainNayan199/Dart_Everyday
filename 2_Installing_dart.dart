@@ -45,3 +45,7 @@
 // 3 : sudo sh -c 'curl https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -'
 // 4 : sudo sh -c 'curl https://storage.googleapis.com/download.dartlang.org/linux/debian/dart_stable.list > /etc/apt/sources.list.d/dart_stable.list'
 
+
+// We have not installed dart sdk yet, Now type this commands : 
+
+
