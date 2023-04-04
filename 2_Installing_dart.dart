@@ -28,3 +28,7 @@
 // after installing the home brew, open up the terminal and type
 // cmd : brew tap dart-lang/dart
 // cmd : brew install dart
+
+// Now dart sdk is installed in your system
+
+// confirm by doing dart -v command
