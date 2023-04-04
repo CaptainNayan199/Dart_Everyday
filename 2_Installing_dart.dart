@@ -4,4 +4,6 @@
 
 // Installing dart on windows : 
 
-// Just open up the command prompt on your windows, and type the command : choco install dart-sdk
+// Just open up the command prompt on your windows, and type the command : choco install dart-sdk, this command will install the dart sdk on your system
+
+// 
