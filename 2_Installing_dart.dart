@@ -17,3 +17,6 @@
 // In the user variable section, select path and click edit option
 // Click on New option and enter the path to the dart-sdk directory (go to the SDK location, enter to the bin location, copy the bin location and paste it here)
 // Apply and press ok, its done!
+
+
+// Installing dart on windows
