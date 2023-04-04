@@ -53,3 +53,6 @@
 
 // So now the dart sdk will be installed in your system, no need to set up environment variables here. Even , dart will be updated automatically whenever the new version is available.
 
+
+// SO yeah this much today, today we talked about how to install dart on various platforms
+
