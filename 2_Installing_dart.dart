@@ -19,4 +19,4 @@
 // Apply and press ok, its done!
 
 
-// Installing dart on windows
+// Installing dart on MacOS : 
