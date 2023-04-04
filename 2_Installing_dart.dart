@@ -13,3 +13,4 @@
 // Setting up the environment variables : 
 // In the windows search box type environment variables and go there
 // Click on edit the system environment variables
+// Click environment variables....
