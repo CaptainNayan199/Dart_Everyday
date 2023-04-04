@@ -6,4 +6,4 @@
 
 // Just open up the command prompt on your windows, and type the command : choco install dart-sdk, this command will install the dart sdk on your system
 
-// 
+// For upgrading the dart sdk, you can use the command : choco upgrade dart-sdk
