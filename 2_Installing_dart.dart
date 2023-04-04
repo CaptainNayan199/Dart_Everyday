@@ -41,4 +41,4 @@
 // Just use this command : 
 
 // 1 : sudo apt-get update
-// 2 : sudo apt-get 
+// 2 : sudo apt-get install apt-transport-https
