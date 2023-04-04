@@ -15,3 +15,4 @@
 // Click on edit the system environment variables
 // Click environment variables....
 // In the user variable section, select path and click edit option
+// Click on New option and enter the path to the dart-sdk directory (go to the SDK location, enter to the bin location, copy the bin location and paste it here)
