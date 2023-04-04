@@ -38,4 +38,6 @@
 
 // It is quite easy to install dart in linux
 
-// 
+// Just use this command : 
+
+// 1 : sudo apt-get update
