@@ -26,3 +26,5 @@
 // Cmd - brew -v , if the terminal prints some version than you are good to go, or else you need to install it, visit(https://brew.sh.) to know how to install it
 
 // after installing the home brew, open up the terminal and type
+// cmd : brew tap dart-lang/dart
+// cmd : brew install dart
