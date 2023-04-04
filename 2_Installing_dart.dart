@@ -55,4 +55,5 @@
 
 
 // SO yeah this much today, today we talked about how to install dart on various platforms
+// Tomorrow we will continue more about dartpad, and printing our first line of code in dart
 
