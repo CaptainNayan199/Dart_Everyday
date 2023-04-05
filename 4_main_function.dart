@@ -1,0 +1,1 @@
+// As told earlier, any dart program should compulsory begin with a main function
