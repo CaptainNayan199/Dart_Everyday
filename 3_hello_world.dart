@@ -5,3 +5,4 @@ void main (){
    print("Hello Universe")
 }
 
+// dont worry abt void and all we'll discuss abt it later on too
