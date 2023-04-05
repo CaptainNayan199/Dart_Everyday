@@ -11,4 +11,4 @@ void main() {
 
 // SO yeah this much for today's class, this was all the basic abt dart, from tomorrow onward we will be talking abt variables, values, comments, operators, and many more 
 // Stay updated
-// Thank you Happy coding! 
+// Thank you!  Happy coding! 
