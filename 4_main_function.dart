@@ -4,3 +4,5 @@
 void main() {
   print('Hello, Dart');
 }
+
+// This main function tells the dart what is the starting point of the program 
