@@ -10,3 +10,4 @@ void main() {
 // There must be only one main function in the program, multiple main function must be strictly prohibited.
 
 // SO yeah this much for today's class, this was all the basic abt dart, from tomorrow onward we will be talking abt variables, values, comments, operators, and many more 
+// Stay updated
