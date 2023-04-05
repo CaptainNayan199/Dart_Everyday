@@ -6,4 +6,4 @@ void main() {
 }
 
 // This main function tells the dart what is the starting point of the program 
-// 
+// It is the entry point of our program
