@@ -7,4 +7,4 @@ void main() {
 
 // This main function tells the dart what is the starting point of the program 
 // It is the entry point of our program
-// There must be only one main function in the program, multiple main function must be strictly prohibited
+// There must be only one main function in the program, multiple main function must be strictly prohibited.
