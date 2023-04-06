@@ -22,3 +22,5 @@ print(mess);
 // user can re-assign this value to other typed value as well as like in above example
 
 // ps: its not advisable to use dynamic keyword btw, 
+
+// so this much for today, tomorrow we will see more abt variables in details, today was just the normal briefing
