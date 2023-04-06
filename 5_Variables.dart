@@ -24,3 +24,4 @@ print(mess);
 // ps: its not advisable to use dynamic keyword btw, 
 
 // so this much for today, tomorrow we will see more abt variables in details, today was just the normal briefing
+// Thank you! Happy coding
