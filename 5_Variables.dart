@@ -1,1 +1,1 @@
-// Variables are the building block for any programming language
+// Variables are the building block for any programming language, and it is same dor dart programming too
