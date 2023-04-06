@@ -7,3 +7,6 @@
 var message = "Hello world!"
 
 // in the above single line of code, we have created a variable named message and stored string data into it
+// If you need to access that variable then simply type the variable name and you are good to go
+
+print($message);
