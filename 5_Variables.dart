@@ -6,4 +6,4 @@
 
 var message = "Hello world!"
 
-// 
+// in the above single line of code, we have created a variable named message and stored string data into it
