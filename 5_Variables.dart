@@ -17,3 +17,7 @@ print(message);
 dynamic mess = "Hello universe";
 print(mess);
 dynamic mess = 56;
+
+void main (){
+    print(mess)
+}
