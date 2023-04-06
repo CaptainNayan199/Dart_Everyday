@@ -4,7 +4,7 @@
 
 // Defining variables - one of the simplest and easiest way to define variable in dart language is by using the keyword var
 
-var message = "Hello world!"
+var message = "Hello world!";
 
 // in the above single line of code, we have created a variable named message and stored string data into it
 // If you need to access that variable then simply type the variable name and you are good to go
