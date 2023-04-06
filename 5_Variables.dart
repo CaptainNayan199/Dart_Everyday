@@ -3,3 +3,5 @@
 // Variables in dart language are also like a container where we store multiple values with different data types
 
 // Defining variables - one of the simplest and easiest way to define variable in dart language is by using the keyword var
+
+var message = "Hello world!"
