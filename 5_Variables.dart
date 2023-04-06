@@ -9,4 +9,6 @@ var message = "Hello world!"
 // in the above single line of code, we have created a variable named message and stored string data into it
 // If you need to access that variable then simply type the variable name and you are good to go
 
-print($message);
+print(message);
+
+// Dart is a typed language. The type of the variable message is String. Dart can infer this type, so you did't have to explicitly define it as a String
