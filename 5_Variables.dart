@@ -15,5 +15,5 @@ print(message);
 // Importantly, this variable must be a String forever. You cannot re-assign the variable as an integer. If you did want to create a variable that's more dynamic, you'd use the dynamic keyword. We'll see examples of that in a later lesson.
 
 dynamic mess = "Hello universe";
-print(mess)
+print(mess);
 dynamic mess = 56;
