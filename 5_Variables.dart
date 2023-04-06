@@ -16,7 +16,7 @@ print(message);
 
 dynamic mess = "Hello universe";
 print(mess);
-dynamic mess = 56
+dynamic mess = 56;
 print(mess);
 
 // user can re-assign this value to other typed value as well as like in above example
