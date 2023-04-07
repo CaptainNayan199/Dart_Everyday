@@ -19,3 +19,5 @@ void main (){
 // main() - this function is the starting point of every Dart code, this function is very crucial, as dart compiler will always look for main function at first, if not founds throws some errors
 
 // String name = "Nayan", line is a variable declaration, we are declaring a variable called name of type String with values assign ; "Nayan"
+
+// The print function is used to show the output onto the screen, 
