@@ -8,4 +8,8 @@
 // This will print Hello1 to hello 5
 
 // lets look at other examples 
-void main ()
+void main (){
+    String name = "Nayan";
+    print("My name is $name")
+}
+// this will print My name is Nayan
