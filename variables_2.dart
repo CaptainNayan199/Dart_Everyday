@@ -38,5 +38,23 @@ void main (){
 // using a var means we are not specifying the variables types here, rather compiler automatically identifies which types the variable is and works accordingly
 // PS : Dart is strongly typed language
 
+// But we cannot change the values and operate it thinking it as an dynamic variables 
 
+void main() {
+var name = "Nayan";
+name = 42;
+print ("Hello $name!");
+}
 
+// It will throw an error saying "A value of type 'int' can't be assigned to a variable of type 'String'. name = 42; Error: Compilation failed."
+
+// Rather we can declare a dynamic type as follows : 
+
+void main (){
+  dynamic name = "Ujjwal";
+  name = 43;
+  print("Helllp $name");
+}
+
+// So the name variable, which was a string when we first declared it, has now
+become an integer.
