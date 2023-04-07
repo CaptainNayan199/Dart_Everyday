@@ -23,3 +23,17 @@ void main (){
 // The print function is used to show the output onto the screen, 
 // We have used a dollar($) sign to insert a variable into the string without using the concatenation (+) operator, 
 // We can even rewrite the code by using + operator as :
+
+void main (){
+    String name = 'Ujjwal';
+    print("My name is " +name+ " Pathak");
+}
+
+// Generic variable declaration in dart : 
+void main (){
+    var name = "Birendra";
+    print("Hello $name");
+}
+
+// using a var means we are not specifying the variables types here, rather compiler automatically identifies which types the variable is and works accordingly
+// PS : Dart is strongly typed language - 
