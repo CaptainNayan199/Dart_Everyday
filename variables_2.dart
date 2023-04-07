@@ -16,4 +16,4 @@ void main (){
 
 
 // I have already talked abt main function in previous session but let me add more about it
-// main() - this function is the starting point of every Dart code
+// main() - this function is the starting point of every Dart code, this function is very crucial, as dart compiler will always look for main function at first, if not founds throws some errors
