@@ -21,3 +21,5 @@ void main (){
 // String name = "Nayan", line is a variable declaration, we are declaring a variable called name of type String with values assign ; "Nayan"
 
 // The print function is used to show the output onto the screen, 
+// We have used a dollar($) sign to insert a variable into the string without using the concatenation (+) operator, 
+// We can even rewrite the code by using + operator as :
