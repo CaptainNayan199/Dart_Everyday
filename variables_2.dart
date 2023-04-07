@@ -36,4 +36,7 @@ void main (){
 }
 
 // using a var means we are not specifying the variables types here, rather compiler automatically identifies which types the variable is and works accordingly
-// PS : Dart is strongly typed language - 
+// PS : Dart is strongly typed language
+
+
+
