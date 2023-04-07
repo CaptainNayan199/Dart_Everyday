@@ -56,5 +56,5 @@ void main (){
   print("Helllp $name");
 }
 
-// So the name variable, which was a string when we first declared it, has now
-become an integer.
+// So the name variable, which was a string when we first declared it, has now become an integer.
+
