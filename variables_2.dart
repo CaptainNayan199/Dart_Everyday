@@ -58,3 +58,5 @@ void main (){
 
 // So the name variable, which was a string when we first declared it, has now become an integer.
 
+// PS : as said earlier in previous session, using dynamic is not seen as a good practice in dart, so better to avoid it
+// So this much for today
