@@ -13,3 +13,7 @@ void main (){
     print("My name is $name")
 }
 // this will print My name is Nayan
+
+
+// I have already talked abt main function in previous session but let me add more about it
+// main() - this function is the starting point of every Dart code
