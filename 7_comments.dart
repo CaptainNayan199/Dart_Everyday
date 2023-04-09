@@ -3,3 +3,5 @@
 // If a person has a need of explaining code or writing something that must be ignored by the compiler or interpreter is the comment.
 
 // There is only a single method of writing a comment in dart languages
+
+// Inline comments : 
