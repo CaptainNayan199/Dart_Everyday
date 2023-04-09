@@ -7,4 +7,4 @@
 // Inline comments : it is a comment where two forward slashes are written at the beginning of the code to ensure that it is a comment.
 // Eg -  this is a inline comment or sometime also referred to as a single line comment.
 
-// There is also a comment which is called as a block of comments or multi line comments
+// There is also a comment which is called as a block of comments or multi line comments but is not conventional for dart language
