@@ -2,4 +2,4 @@
 // Whatever is returned inside of the comment section is going to be neglected by the interpreter/compiler
 // If a person has a need of explaining code or writing something that must be ignored by the compiler or interpreter is the comment.
 
-// There is only a single methods
+// There is only a single method of writing a comment in dart files
