@@ -8,3 +8,5 @@
 // Eg -  this is a inline comment or sometime also referred to as a single line comment.
 
 // There is also a comment which is called as a block of comments or multi line comments but is not conventional for dart language
+
+/*This is a multi line*/
