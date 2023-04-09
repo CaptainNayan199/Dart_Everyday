@@ -4,4 +4,4 @@
 
 // There is only a single method of writing a comment in dart languages
 
-// Inline comments : it is a comment where two forward slashes are written at the beginning of the code to 
+// Inline comments : it is a comment where two forward slashes are written at the beginning of the code to ensure that it is a comment.
