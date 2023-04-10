@@ -5,4 +5,4 @@
 
 // Eg : const pi = 3.1415, Now the values of the pi cannot be changed
 
-// Const variable - this type of variable are compile time
+// Const variable - this type of variable are compile time constant. Once const is given
