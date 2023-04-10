@@ -4,3 +4,5 @@
 // In simple terms, if a variable is defined using these kwywords, then their values can never be changed throughout the code, it becomes a permanent values.
 
 // Eg : const pi = 3.1415, Now the values of the pi cannot be changed
+
+// Const Keyword
