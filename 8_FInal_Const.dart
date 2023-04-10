@@ -3,4 +3,4 @@
 // In place of var we can use keyword like const, and final
 // In simple terms, if a variable is defined using these kwywords, then their values can never be changed throughout the code, it becomes a permanent values.
 
-// Eg : const pi = 3.1415
+// Eg : const pi = 3.1415, Now the values of the pi cannot be changed
