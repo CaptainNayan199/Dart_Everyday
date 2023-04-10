@@ -18,7 +18,7 @@ print(name)
 // Final is like const, but it must not need of becoming constant at compile time, it can be assigned to any value, including non-const values, but it also cannot be changed once it has been set
 
 final namee = "Nayan"
-// creating a 
+// creating a final keyword variable
 
 name = "Ujjwal"
 // This doesnot work
