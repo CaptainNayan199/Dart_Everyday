@@ -5,7 +5,9 @@
 
 // Eg : const pi = 3.1415, Now the values of the pi cannot be changed
 
-// Const variable - this type of variable are compile time constant. Once const is given to a certain variable, its values is never changed
+// Const variable - this type of variable are compile time constant. Once const is given to a certain variable, its values is never changed.Using const on an object, makes the object’s entire deep state strictly fixed at compile-time and that the object with this state will be considered frozen and completely immutable.
 
-const name = "Naya"
-// 
+const name = "Nayan" 
+// now this value cannot be changed
+name = "Ujjwal" 
+// The above statement is not accepted
