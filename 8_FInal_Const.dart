@@ -16,3 +16,8 @@ print(name)
 
 // Final variable - final keyword is used to hardcore the values of the variable and it cannot be altered in the future, neither any kind of operations performed on these variables can alter its value (state)
 // Final is like const, but it must not need of becoming constant at compile time, it can be assigned to any value, including non-const values, but it also cannot be changed once it has been set
+
+final namee = "Nayan"
+
+name = "Ujjwal"
+// This
