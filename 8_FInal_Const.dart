@@ -1,0 +1,1 @@
+// In previous session, we saw that we can define a variable with the use of var keyword in dart
