@@ -5,4 +5,4 @@
 
 // Eg : const pi = 3.1415, Now the values of the pi cannot be changed
 
-// Const Keyword
+// Const variable - this type of variable are compile time
