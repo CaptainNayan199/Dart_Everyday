@@ -11,4 +11,13 @@ void main (){
     c = a* b;
     c = c++
     c = c--
+    c = --a;
+    c = --b;
+
+    var a, b;
+
+a = 0;
+b = ++a; // Increment a before b gets its value.
+assert(a == b); // 1 == 1
+
 }
