@@ -49,4 +49,7 @@ a<b;
 a>=b;
 a<=b;
 
-// I have not explained the work of each operator in details, coz if you are here than i am assuming that you must have a knowledge on any other programming langugaes
+// I have not explained the work of each operator in details, coz if you are here than i am assuming that you must have a knowledge on any other programming langugaes.
+// And hence, operators are mostly same in every programming languages
+
+// PS : If you are a newbie in the world of programming
