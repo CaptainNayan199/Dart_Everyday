@@ -5,5 +5,10 @@
 void main (){
     var a = 10, b = 2;
     var c = a +b;
-    c = a-b
+    c = a-b;
+    c=a%b;
+    c = a/b;
+    c = a* b;
+    c = c++
+    c = c--
 }
