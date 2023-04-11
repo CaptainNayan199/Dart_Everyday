@@ -36,3 +36,17 @@ assert(a != b); // -1 != 0
 
 
 }
+
+
+// COmparison operators : 
+
+
+var a , b;
+a ==b;
+a!=b;
+a>b;
+a<b;
+a>=b;
+a<=b;
+
+// 
