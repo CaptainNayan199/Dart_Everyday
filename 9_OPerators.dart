@@ -56,4 +56,6 @@ a<=b;
 // I am saying this not to demotivate you, but in future session when we will be dealing with complex dart structures and all those things than at that time many new topics may come and it can make you think like what the heck is this, shitttt!!!!!!!!(Sorry for the language)
 
 // SO please take a basic of other programming languages, and then after you can visit here, it will be very helpful for you.
-// So yeah this much for today
+// So yeah this much for today, tomorrow we will be looking at assignment and logical operators.
+
+// Thank you! Practice more, Happy coding
