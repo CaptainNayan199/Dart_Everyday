@@ -49,4 +49,4 @@ a<b;
 a>=b;
 a<=b;
 
-// 
+// I have not explained the work of each operator in details, coz if you are here than you must have a knowledge on any other programming langugaes
