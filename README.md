@@ -19,6 +19,6 @@ I'm always looking for ways to improve my code, so if you have any awesome Dart 
 
 # License 📝
 
-K Licence rakhnu hau jabo euta hello world print garne Code ma chai 😶🤨🫡
+K Licence rakhnu hau jabo euta hello world print garne Code ma chai 😶🤨🫡, alik paxi rakhxu haii tw.
 
 Thanks for stopping by, and happy coding! 😎😎
