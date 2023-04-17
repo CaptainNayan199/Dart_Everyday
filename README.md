@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my little corner of the Dart universe 🌌! This is where I'll be storing all of my Dart files for various projects and experiments. Feel free to browse around and use any of the code you find here!
 
-What's Inside 🧐
+# What's Inside 🧐
 In this repository, you'll find a ton of different Dart files that I've created over the past months of my practice, including:
 
 
